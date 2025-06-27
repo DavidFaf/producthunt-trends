@@ -3,6 +3,8 @@
 
 Welcome to **AI Pulse**, a cloud-native project that scrapes, processes, analyzes, and visualizes AI startup launches on Product Hunt using AWS and modern data tools.
 
+![dashboard](https://github.com/user-attachments/assets/d95524e3-2229-46bf-9162-39cb620df327)
+
 ---
 
 ## 📦 Project Overview
