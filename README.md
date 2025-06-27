@@ -1,7 +1,7 @@
 
 # 🚀 Startups & Signals: AI Trends on Product Hunt
 
-![Dashboard Preview](./dashboard/dashboard_overview.png)
+![dashboard](https://github.com/user-attachments/assets/0d2782af-1cb6-4afe-bba1-6299f81a9875)
 
 This project explores recent AI-related product launches on **Product Hunt** to uncover patterns in upvotes, tags, pitch length, and overall AI momentum in the startup ecosystem.
 
@@ -43,7 +43,8 @@ Using a fully serverless AWS pipeline, the project demonstrates how to extract, 
 
 ## 📈 Dashboard Highlights
 
-![Dashboard Preview](./dashboard/dashboard_overview.png)
+![dashboard](https://github.com/user-attachments/assets/d7c959d8-b5cc-451d-937e-3e3567a540d9)
+
 
 📌 Visuals include:
 - AI Startups Gauge vs Total
