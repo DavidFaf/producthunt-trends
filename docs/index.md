@@ -88,7 +88,8 @@ Cleaned and enriched data using Pandas:
 
 ## 📈 Dashboard Preview
 
-![Dashboard](../dashboard/dashboard_overview.png)
+![dashboard](https://github.com/user-attachments/assets/d95524e3-2229-46bf-9162-39cb620df327)
+
 
 ---
 
@@ -122,4 +123,4 @@ Due to AWS limitations, this dashboard is private.
 
 ---
 
-> ⚡ *This project demonstrates end-to-end ownership of a cloud-based data product — from raw scraping to insight delivery.*
+> ⚡ *This project demonstrates end-to-end ownership of a cloud-based data product, from raw scraping to insight delivery.*
